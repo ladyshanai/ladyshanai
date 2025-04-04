@@ -16,18 +16,25 @@
 
 ## 🤝 Connect with me
 
-<p align="center">
+<p>
 	<a href="mailto:paulalezcano21@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/paulalezcano/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ## 💻 My Tech Stack
 
+<h4> Languages </h4>
+
 <p>
     <a href="https://www.java.com/"><img alt="JAVA" src="https://img.shields.io/badge/Java-%23FF6F00.svg?logo=java&logoColor=white"></a>
-    <a href="https://spring.io/"><img alt="SPRINGBOOT" src="http://img.shields.io/badge/-Springboot-629e3a?style=plastic&logo=springboot&logoColor=white"></a>
     <a href=""><img alt="CSS" src="http://img.shields.io/badge/-Css-2a65f1?style=plastic&logo=css3&logoColor=white"></a>
     <a href=""><img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>
+    <a href="https://www.typescriptlang.org/"><img alt="TYPESCRIPT" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"></a>
+</p>
+
+<h4> Other Tools and Technologies </h4>
+<p>
+    <a href="https://spring.io/"><img alt="SPRINGBOOT" src="http://img.shields.io/badge/-Springboot-629e3a?style=plastic&logo=springboot&logoColor=white"></a>
     <a href="https://www.mysql.com/"><img alt="MYSQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a>
     <a href="https://www.microsoft.com/sql-server"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white"></a>
     <a href="https://www.docker.com/"><img alt="DOCKER" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
@@ -37,7 +44,6 @@
     <a href="https://www.kafka.apache.org/"><img alt="APACHE KAFKA" src="https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka"></a>
     <a href="https://www.ionicframework.com/"><img alt="IONIC" src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=plastic&logo=Ionic&logoColor=white"></a>
     <a href="https://www.maven.apache.org/"><img alt="MAVEN" src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=plastic&logo=apachemaven&logoColor=white"></a>
-    <a href="https://www.typescriptlang.org/"><img alt="TYPESCRIPT" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"></a>
     <a href="https://www.ubuntu.com/"><img alt="UBUNTU" src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
     <a href="https://www.atlassian.com/"><img alt="JIRA" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white"></a>
 </p>
